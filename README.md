@@ -8,7 +8,7 @@
 
 ## CREATIVE v3 Subgraph
 
-The official PoolTogether v3 subgraph.
+The official Creative v3 subgraph.
 
 #### Quick-use:
 
@@ -58,7 +58,7 @@ $ sudo docker-compose up
 
 ###### Deploying the PoolTogether Contracts Locally
 
-Make sure you've already deployed the PoolTogether contracts.  If you haven't done so, check out the [contracts repo](https://github.com/pooltogether/pooltogether-contracts-v3).  
+Make sure you've already deployed the CREATIVE contracts.  If you haven't done so, check out the [contracts repo](https://github.com/g2entgroup/creative-contracts).  
 
 1. Change the `localhost` target url to 0.0.0.0:8545 in `builder.network.js`
 
