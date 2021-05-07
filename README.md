@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://github.com/g2entgroup">
     <img src="https://www.creativeplatform.io/img/Creative_logo.png?raw=true" alt="PoolTogether Brand" style="max-width:100%;" width="200">
+    CREATIVE
   </a>
 </p>
 
 <br />
 
-## PoolTogether v3 Subgraph
+## CREATIVE v3 Subgraph
 
 The official PoolTogether v3 subgraph.
 
