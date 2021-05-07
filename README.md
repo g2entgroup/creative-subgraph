@@ -56,7 +56,7 @@ $ ./setup.sh
 $ sudo docker-compose up
 ```
 
-###### Deploying the PoolTogether Contracts Locally
+###### Deploying the CREATIVE Contracts Locally
 
 Make sure you've already deployed the CREATIVE contracts.  If you haven't done so, check out the [contracts repo](https://github.com/g2entgroup/creative-contracts).  
 
